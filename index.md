@@ -9,11 +9,14 @@ For Plant Growth Regulators, we supply wholesale high-efficiency and stable qual
 
 ## Dora Agri Products
 
-*Biofertilizer*: Bacillus subtilis,Bacillus Amyloliquefaciens,bacillus licheniformis,Bacillus Mucilaginosus,penicillium bilaia,Trichoderma Harzianum,Trichoderma viride,paecilomyces lilacinus.
+**Biofertilizer**: 
+Bacillus subtilis,Bacillus Amyloliquefaciens,bacillus licheniformis,Bacillus Mucilaginosus,penicillium bilaia,Trichoderma Harzianum,Trichoderma viride,paecilomyces lilacinus.
 
-*Biofungicide*: Beauveria Bassiana,Metarhizium Anisopliae,Paecilomyces Lilacinus
+**Biofungicide**: Beauveria Bassiana,Metarhizium Anisopliae,Paecilomyces Lilacinus
 *Organic Biostimulants*: OMRI Amino acids, Humic acid, Seaweed Fertilizer
-*Plant Immune Elicitors*: Chitosan, Chitosan Oligosaccharide, harpin protein
+
+
+**Plant Immune Elicitors**: Chitosan, Chitosan Oligosaccharide, harpin protein
 
 
 ## How to contact Dora Agri
